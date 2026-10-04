@@ -1,0 +1,126 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2567 >>
+stream
+BT
+/F1 10 Tf
+72 760 Td
+(DEMO DATA - fictional candidate. Not a real person or resume.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Alex Rivera) Tj
+0 -13 Td
+(Software Engineer \(New Graduate\)) Tj
+0 -13 Td
+(Email: alex.rivera.demo@example.com  |  Location: Demo City \(fictional\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(SUMMARY) Tj
+0 -13 Td
+(Recent B.Tech Computer Science graduate seeking a Software Engineer role.) Tj
+0 -13 Td
+(Comfortable with Java, Python, SQL, and JavaScript. Built REST APIs,) Tj
+0 -13 Td
+(React UIs, and PostgreSQL schemas in internships and course projects.) Tj
+0 -13 Td
+(Practices DSA and OOP regularly. Basic Docker experience. No production) Tj
+0 -13 Td
+(Kafka or AWS ownership.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(SKILLS) Tj
+0 -13 Td
+(Languages: Java, Python, SQL, JavaScript) Tj
+0 -13 Td
+(Web: REST APIs, React) Tj
+0 -13 Td
+(Data: PostgreSQL, Git) Tj
+0 -13 Td
+(Concepts: Data Structures and Algorithms, Object-Oriented Programming) Tj
+0 -13 Td
+(Tools: basic Docker \(build/run images locally\)) Tj
+0 -13 Td
+(Not yet used in a job: Spring Boot, Kafka, AWS, large-scale system design) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(EDUCATION) Tj
+0 -13 Td
+(B.Tech, Computer Science - Northbridge Institute of Technology \(fictional\)) Tj
+0 -13 Td
+(Graduation: 2025  |  Coursework: DSA, OOP, DBMS, Operating Systems, Networks) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(EXPERIENCE) Tj
+0 -13 Td
+(Software Engineering Intern - HarborByte Software \(fictional company\)) Tj
+0 -13 Td
+(Jun 2024 - Aug 2024  |  Backend / API team) Tj
+0 -13 Td
+(- Designed REST endpoints in Java for an internal order-status service) Tj
+0 -13 Td
+(- Wrote PostgreSQL queries and simple indexes for order lookup) Tj
+0 -13 Td
+(- Added request validation, error responses, and unit tests) Tj
+0 -13 Td
+(- Helped the frontend consume APIs; used Git pull requests daily) Tj
+0 -13 Td
+(- Did not deploy to AWS or operate message queues) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(PROJECTS) Tj
+0 -13 Td
+(Campus Marketplace API \(fictional\) - Java, REST, PostgreSQL, Git) Tj
+0 -13 Td
+(CRUD listings, JWT-style session tokens in a class project, OpenAPI notes.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(DemoCart e-commerce UI \(fictional\) - React, JavaScript, REST) Tj
+0 -13 Td
+(Product list, cart, and checkout screens calling a mock REST backend.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(StudyBuddy grade predictor \(fictional\) - Python, scikit-learn) Tj
+0 -13 Td
+(Small ML classifier on a public toy dataset; CSV in, accuracy report out.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Docker notes) Tj
+0 -13 Td
+(Local Dockerfile for the Campus Marketplace API; image run on localhost only.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002859 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2929
+%%EOF

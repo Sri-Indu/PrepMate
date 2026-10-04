@@ -1,0 +1,46 @@
+DEMO DATA - fictional candidate. Not a real person or resume.
+
+Alex Rivera
+Software Engineer (New Graduate)
+Email: alex.rivera.demo@example.com  |  Location: Demo City (fictional)
+
+SUMMARY
+Recent B.Tech Computer Science graduate seeking a Software Engineer role.
+Comfortable with Java, Python, SQL, and JavaScript. Built REST APIs,
+React UIs, and PostgreSQL schemas in internships and course projects.
+Practices DSA and OOP regularly. Basic Docker experience. No production
+Kafka or AWS ownership.
+
+SKILLS
+Languages: Java, Python, SQL, JavaScript
+Web: REST APIs, React
+Data: PostgreSQL, Git
+Concepts: Data Structures and Algorithms, Object-Oriented Programming
+Tools: basic Docker (build/run images locally)
+Not yet used in a job: Spring Boot, Kafka, AWS, large-scale system design
+
+EDUCATION
+B.Tech, Computer Science - Northbridge Institute of Technology (fictional)
+Graduation: 2025  |  Coursework: DSA, OOP, DBMS, Operating Systems, Networks
+
+EXPERIENCE
+Software Engineering Intern - HarborByte Software (fictional company)
+Jun 2024 - Aug 2024  |  Backend / API team
+- Designed REST endpoints in Java for an internal order-status service
+- Wrote PostgreSQL queries and simple indexes for order lookup
+- Added request validation, error responses, and unit tests
+- Helped the frontend consume APIs; used Git pull requests daily
+- Did not deploy to AWS or operate message queues
+
+PROJECTS
+Campus Marketplace API (fictional) - Java, REST, PostgreSQL, Git
+CRUD listings, JWT-style session tokens in a class project, OpenAPI notes.
+
+DemoCart e-commerce UI (fictional) - React, JavaScript, REST
+Product list, cart, and checkout screens calling a mock REST backend.
+
+StudyBuddy grade predictor (fictional) - Python, scikit-learn
+Small ML classifier on a public toy dataset; CSV in, accuracy report out.
+
+Docker notes
+Local Dockerfile for the Campus Marketplace API; image run on localhost only.

@@ -1,0 +1,38 @@
+DEMO DATA - fictional job posting. Not a real employer.
+
+Software Engineer  |  Harborline Apps (fictional)
+Level: New graduate / 0–1 years  |  Location: Demo City (fictional)
+
+About the role
+Build backend services for a small e-commerce platform. You will write Java
+REST APIs, store data in PostgreSQL, containerize services with Docker, and
+learn Kafka plus AWS with the team. Interviews cover DSA, OOP, and basic
+system design.
+
+Responsibilities
+- Implement and test REST APIs in Java with Spring Boot
+- Model data and write PostgreSQL queries with attention to indexes
+- Package services with Docker for local and cloud environments
+- Consume/produce Kafka events for orders and inventory (with mentorship)
+- Use AWS basics (for example S3 or a managed database) as guided by seniors
+- Discuss trade-offs: caching, scaling a simple service, API contracts
+- Participate in code reviews and Git-based workflow
+
+Required
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Docker
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Basic system design (APIs, databases, caching, load at small scale)
+
+Nice to have / will train
+- Kafka
+- AWS
+- Python or JavaScript for tooling and UI collaboration
+
+Interview topics
+DSA, OOP, REST, PostgreSQL, Docker, introductory system design,
+plus a short discussion of Kafka and AWS concepts.
